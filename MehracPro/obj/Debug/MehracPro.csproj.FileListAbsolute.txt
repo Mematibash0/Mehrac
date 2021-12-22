@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\MehracPro.exe.config
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\MehracPro.exe
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\MehracPro.pdb
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.Form1.resources
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.exe
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.pdb
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.Form2.resources
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.Form3.resources
