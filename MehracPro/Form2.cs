@@ -22,25 +22,18 @@ namespace MehracPro
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            
-            string[] url=File.ReadAllLines(mn.Yol);
-            webBrowser1.Navigate(url[0]);
-            
-            
+            string yol = mn.Yol;
+            string[] url = File.ReadAllLines(yol);
+            webView21.Source = new Uri(url[0]);
         }
-        private void webBrowser1_PreviewKeyDown(object sender, PreviewKeyDownEventArgs e)
-        {
-            if (e.KeyCode == Keys.F11)
-            {
-                webBrowser1.ShowPrintPreviewDialog();
-            }
-            
-        }
+          
+        
+
         private void Form2_FormClosing(object sender, FormClosingEventArgs e)
         {
-            Form3 f3 = new Form3();
-            f3.Show();
-            this.Hide();
+           
         }
+
+        
     }
 }

@@ -10,3 +10,13 @@ C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.exe
 C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.pdb
 C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.Form2.resources
 C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.Form3.resources
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\ASUS\source\repos\MehracPro\MehracPro\obj\Debug\MehracPro.csproj.CopyComplete
